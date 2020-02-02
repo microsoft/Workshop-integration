@@ -1,14 +1,56 @@
+# Integration workshop
 
-# Contributing
+Unlike other problems and solutions, integration is unique in that every scenario is different. But believe it or not, business’ varying in size face the same questions – “How do we build an enterprise integration ecosystem in a cost-effective, simple and resilient manner? How to we enable 1st and 3rd party teams to seamlessly integrate with our business?”. Thankfully, we can identify and architect certain patterns and practice to make this a smooth experience, delivering value in a very fast manner.
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
-Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
-the rights to use your contribution. For details, visit https://cla.opensource.microsoft.com.
+Please join us for a 1-day, heavily practical architecture and whiteboard design day including private consultation with Azure integration experts. You will gain a thorough understanding of how you can quickly use the best integration tools to solve your business challenges. 
 
-When you submit a pull request, a CLA bot will automatically determine whether you need to provide
-a CLA and decorate the PR appropriately (e.g., status check, comment). Simply follow the instructions
-provided by the bot. You will only need to do this once across all repos using our CLA.
+#### Workshop Information:  
 
-This project has adopted the [Microsoft Open Source Code of Conduct](https://opensource.microsoft.com/codeofconduct/).
-For more information see the [Code of Conduct FAQ](https://opensource.microsoft.com/codeofconduct/faq/) or
-contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additional questions or comments.
+By the end of the day, attendees will have a thorough understanding of how to approach an integration design, as well as answered questions they have about their existing business.
+
+
+#### Whiteboard scenarios
+
+The second whiteboard scenario will be designed by you and your teams; this means you get the opportunity to bring your current business requirements, issues, queries or architecture questions and get on-the-spot advice from an expert (as well as other attendees). This means you must have a think about this beforehand and bring these topics.
+
+#### Who should attend:  
+This invitation is open to your application development/engineering/integration teams.
+
+#### What to bring
+- A laptop  
+- Current business requirements or issues or questions around integration scenarios
+
+**Please note: Workshop content presumes 200-300-level of architectural expertise of infrastructure and solutions design.** 
+
+**Microsoft Presenter:** ??
+
+Spots are strictly limited. Please reply to adam.stephensen@microsoft.com to confirm places for your team. 
+
+We look forward to seeing you at the event!
+
+#### AGENDA:
+08:30 AM	Registration  
+09:00 AM	Start session  
+10:15 AM	Morning Tea  
+12:30 PM	Lunch  
+02:30 PM	Afternoon Tea  
+04:00 PM	End of session  
+ 
+
+## Workshop Topics
+
+Integration 101 
+- Patterns and practice 
+- Technologies and how Azure fits in
+
+Whiteboard session #1
+- Review of the case study
+- Attendees design solution
+
+Whiteboard session #2 
+- Integration asset register design
+- Logical diagram design
+- Technical solution design
+
+Next Steps
+- Putting the puzzle pieces together
