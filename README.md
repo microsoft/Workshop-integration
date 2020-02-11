@@ -24,7 +24,7 @@ This invitation is open to your application development/engineering/integration 
 
 **Microsoft Presenter:** ??
 
-Spots are strictly limited. Please reply to adam.stephensen@microsoft.com to confirm places for your team. 
+Spots are strictly limited. Please reply to <organizer>@microsoft.com to confirm places for your team. 
 
 We look forward to seeing you at the event!
 
