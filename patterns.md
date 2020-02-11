@@ -97,3 +97,18 @@ The content enricher pattern achieves this by taking fields in the incoming mess
 
 ## When to use this pattern
 When messages require hydration or enrichment before reaching destination systems, usually by external or seperate data and/or computation sources.
+
+## Mapper
+### What is it?
+A simple pattern, the mapper pattern simply maps domain objects from one format to another. The most common scenario today is mapping from a REST endpoint using JSON, to a legacy SOAP or WSDL/WADL system.
+
+This pattern lays way for app modernization; the ability to provide a modern interface to legacy systems. Products like Azure API-Management have this capability out-of-the-box, with a 1-click import process. This enables organization to very quickly provide modern interfaces to legacy systems.
+
+### Example
+
+![mapper](visio/mapper.PNG "mapper")
+
+### When to use this pattern
+When there is the need to provide a one-to-one mapping from an interface to another. As mentioned above, most commonly this is exposing legacy SOAP type services as more modern REST endpoints.
+
+If the interface needs to modify/transform or augment the message or data coming in, then the mapper pattern can be combined with other patterns such as transformation or content-enricher.
