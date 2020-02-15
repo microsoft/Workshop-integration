@@ -8,6 +8,21 @@ Refer to the whiteboard-session-1 for what an amazing trainer looks like (go loo
 
 ## Whiteboard design session flow
 
+From an abstract perspective, integration is about discovering a journey. Organizations/teams usually:
+
+* Have an OK idea about the current state, with best case being an asset register of sorts, and worse case being concepts inside someone's  head
+* Have a rough idea about the end state, usually an idea inside someone's head
+* No idea about the journey towards that
+
+The idea of this workshop is to help people discover what that journey is, or give them the confidence that we can help them discover that.
+
+You'll find one of 2 things occurs:
+
+1. People have lots of small integration points to document and implement, or;
+2. They have a biztalk implementation which has one giant integration scenario which requires 60 steps
+
+Point-1 is straight-forward enough, point-2 is a bit more tricky and this is where the documentation stage comes in handy. A swimlane diagram is a good idea here.
+
 The second whiteboard design session uses the following flow:
 
 **Step 1: Design your integration asset register (15 minutes)**
