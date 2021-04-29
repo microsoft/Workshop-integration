@@ -9,7 +9,7 @@ Fluffy Ducks co. is a large, multinational firm with offices in Melbourne (head-
 * When a point of integration is updated, this is an atomic change with no ability to rollback
 * When an event happens in Dynamics, there is no automated way to check this
 * Messaging to/from payroll into the cloud have a variable size limit; from kilobytes to multiple megabytes for things like PDF exchange
-* Some payroll functionality migrating to d365, most functionality needs to be migrated into Azure, with a seperate backend and front-end. Keep in mind, some legacy endpoints and data will remain on-prem
+* Some payroll functionality migrating to d365, most functionality needs to be migrated into Azure, with a Separate backend and front-end. Keep in mind, some legacy endpoints and data will remain on-prem
 * Business has appetite for innovation and redesign of current architecture
 
 #### Business requirements
@@ -29,8 +29,8 @@ Fluffy Ducks co. is a large, multinational firm with offices in Melbourne (head-
 * Must replace BizTalk with a solution
 * Must ensure DBAs don’t have to run SSIS packages locally
 * Payroll system has ability to call out (HTTP, webhook, etc.), provides a SOAP interface to call in
-* Payroll system VM needs to migrate to Azure, with seperate back-end API and front-end
-* Employee web system currently in Azure needs to be modernized to a seperate back-end API and front-end
+* Payroll system VM needs to migrate to Azure, with Separate back-end API and front-end
+* Employee web system currently in Azure needs to be modernized to a Separate back-end API and front-end
 * On-prem SQL needs to be replaced with cloud solution (such as Cosmos)
 
 #### Assumptions
